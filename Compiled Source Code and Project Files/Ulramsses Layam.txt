@@ -1,0 +1,15 @@
+------------------------------------------------------------------------------------------------------------
+VMES: Siomai rice, Price: Php 45, Discount: 10%, Discounted Cost: Php 40.5
+Time of Purchase: Fri Oct 27 08:26:35 2023
+------------------------------------------------------------------------------------------------------------
+VMES: Egg with rice, Price: Php 40, Discount: 10%, Discounted Cost: Php 36
+Time of Purchase: Fri Oct 27 08:26:42 2023
+------------------------------------------------------------------------------------------------------------
+VMES: Longganisa with rice, Price: Php 60, Discount: 10%, Discounted Cost: Php 54
+Time of Purchase: Fri Oct 27 08:26:48 2023
+------------------------------------------------------------------------------------------------------------
+VMES: Calamares with rice, Price: Php 70, Discount: 10%, Discounted Cost: Php 63
+Time of Purchase: Fri Oct 27 08:26:56 2023
+------------------------------------------------------------------------------------------------------------
+VMES: Fried chicken with rice, Price: Php 90, Discount: 10%, Discounted Cost: Php 81
+Time of Purchase: Fri Oct 27 08:27:01 2023
