@@ -1,0 +1,3 @@
+------------------------------------------------------------------------------------------------------------
+Nescafe: Cup with one topping, Price: Php 30, Discount: 20%, Discounted Cost: Php 24
+Time of Purchase: Thu Jan 25 16:01:20 2024
