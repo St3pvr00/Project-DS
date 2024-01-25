@@ -1,5 +1,5 @@
 Bert,12,21,15747,Regular Student
-Jonor Vargas,2020135109,135109,4976,Dean's Lister
+Jonor Vargas,2020135109,135109,5000,Dean's Lister
 Ulramsses Layam,2022108051,0987654321,9689,Athlete
 Pythagoras,2020123456,123456,200,Scholar
 Albert Minatalino,2023123456,87612,10017,President's Lister
